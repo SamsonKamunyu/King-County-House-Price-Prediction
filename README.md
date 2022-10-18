@@ -6,7 +6,7 @@
 Creating a model that aims at predicting sale prices for houses in the King County Area.
 
 ## Overview
-I work as a Junior Data Scientist at Proptech Properties Limited. I have been tasked with investigating King County House Sales dataset and draw crucial insights that will help our company improve on house sales by building a high quality model that predicts house sale prices. The company will use this information to reach potential homeowners who are looking to buy high end quality properties. To acieve the goal, we will used both simple and multiple linear regression to analyse and build a predictive model. 
+I work as a Junior Data Scientist at Proptech Properties Limited. I have been tasked with investigating King County House Sales dataset and draw crucial insights that will help our company improve on house sales by building a high quality model that predicts house sale prices. The company will use this information to reach potential homeowners who are looking to buy high end quality properties. To achieve the goal, we will used both simple and multiple linear regression to analyse and build a predictive model. 
 
 ## Business Understanding
 Since Proptech Properties Limited is in the business of buying and selling property, our objectives for the analysis are:
